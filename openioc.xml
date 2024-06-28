@@ -1,0 +1,163 @@
+<OpenIOC xmlns="http://schemas.mandiant.com/2010/ioc">
+<metadata>
+<description>самая новая разработка и наработка человечества, вы долго ждали этого момента</description>
+<short_description>абсолютно новый и неареально продвинутый XXXMMMLLL</short_description>
+</metadata>
+<indicators>
+<Indicator id="2712ecf6-0021-3b03-93ed-fe1a0ecf932a">
+<description>null</description>
+<Context document="AddressObject">
+<Content type="ip" search="equals">104.21.54.126</Content>
+</Context>
+<TimestampIndicator id="ip_timestamps">
+<CreateTime>2024-03-21T12:49:22.446+00:00</CreateTime>
+<LastModified>2024-03-22T12:49:22.446+00:00</LastModified>
+<LastSeen>2024-03-23T12:49:22.446+00:00</LastSeen>
+<FirstSeen>2024-03-24T12:49:22.446+00:00</FirstSeen>
+<Collected>2024-03-28T12:49:22.446+00:00</Collected>
+</TimestampIndicator>
+<RatingIndicator id="ioc_rating">
+<Rating/>
+<RatingTIP>10</RatingTIP>
+</RatingIndicator>
+<EntityType>observable</EntityType>
+<Countries>
+<Country>RU</Country>
+<Country>EU</Country>
+<Country>DEB</Country>
+<Country>MEB</Country>
+<Country>UA</Country>
+</Countries>
+<Incidents>
+<Incident>123y</Incident>
+<Incident>123t</Incident>
+<Incident>123r</Incident>
+<Incident>123e</Incident>
+<Incident>123w</Incident>
+<Incident>123q</Incident>
+</Incidents>
+<ASNs>
+<ASN>qewr</ASN>
+<ASN>qwer</ASN>
+<ASN>req</ASN>
+<ASN>1wer</ASN>
+</ASNs>
+<ASNOwners/>
+<Registrars/>
+</Indicator>
+<Indicator id="2a26a172-80f9-3ba7-a65d-0586a71424de">
+<description>null</description>
+<Context document="DNS">
+<Content type="string" search="equals">libaprhelper.so</Content>
+</Context>
+<TimestampIndicator id="ip_timestamps">
+<CreateTime/>
+<LastModified/>
+<LastSeen/>
+<FirstSeen/>
+<Collected>2024-05-02T13:58:50.512+00:00</Collected>
+</TimestampIndicator>
+<RatingIndicator id="ioc_rating">
+<Rating/>
+<RatingTIP>10</RatingTIP>
+</RatingIndicator>
+<EntityType>ioc</EntityType>
+<ASNOwners>
+<ASNOwner>01983hjk222</ASNOwner>
+<ASNOwner>01983asfadffj</ASNOwner>
+<ASNOwner>01983dffj</ASNOwner>
+<ASNOwner>01983hjk</ASNOwner>
+</ASNOwners>
+<Registrars>
+<Registrars>gsb89jjj</Registrars>
+<Registrars>hgs89jjj</Registrars>
+<Registrars>8fds39jjj</Registrars>
+<Registrars>fhjt89jjj</Registrars>
+<Registrars>89jjjadf</Registrars>
+</Registrars>
+</Indicator>
+<Indicator id="2d237a1b-9131-3912-82c8-0a6e44968174">
+<description>null</description>
+<Context document="DNS">
+<Content type="string" search="equals">vnote-1321786806.cos.ap-hongkong.myqcloud.com</Content>
+</Context>
+<TimestampIndicator id="ip_timestamps">
+<CreateTime/>
+<LastModified/>
+<LastSeen/>
+<FirstSeen/>
+<Collected>2024-03-28T12:49:23.096+00:00</Collected>
+</TimestampIndicator>
+<RatingIndicator id="ioc_rating">
+<Rating/>
+<RatingTIP>10</RatingTIP>
+</RatingIndicator>
+<EntityType>ioc</EntityType>
+<Countries/>
+<Incidents/>
+<ASNs/>
+<ASNOwners/>
+<Registrars>
+<Registrars>gsb89jjj</Registrars>
+<Registrars>hgs89jjj</Registrars>
+<Registrars>8fds39jjj</Registrars>
+<Registrars>fhjt89jjj</Registrars>
+<Registrars>89jjjadf</Registrars>
+</Registrars>
+</Indicator>
+<Indicator id="35a2da91-1ce4-3ef7-a164-1bdc389eb89d">
+<description>null</description>
+<Context document="DNS">
+<Content type="string" search="equals">fxbulls.com</Content>
+</Context>
+<TimestampIndicator id="ip_timestamps">
+<CreateTime/>
+<LastModified/>
+<LastSeen/>
+<FirstSeen/>
+<Collected>2024-03-28T12:49:23.096+00:00</Collected>
+</TimestampIndicator>
+<RatingIndicator id="ioc_rating">
+<Rating/>
+<RatingTIP>10</RatingTIP>
+</RatingIndicator>
+<EntityType>ioc</EntityType>
+<Countries/>
+<Incidents/>
+<ASNs/>
+<ASNOwners>
+<ASNOwner>01983hjk222</ASNOwner>
+<ASNOwner>01983asfadffj</ASNOwner>
+<ASNOwner>01983dffj</ASNOwner>
+<ASNOwner>01983hjk</ASNOwner>
+</ASNOwners>
+<Registrars/>
+</Indicator>
+<Indicator id="37896b76-b142-36bb-8782-f0cfb9da3011">
+<description>null</description>
+<Context document="AddressObject">
+<Content type="ip" search="equals">45.113.1.0</Content>
+</Context>
+<TimestampIndicator id="ip_timestamps">
+<CreateTime/>
+<LastModified/>
+<LastSeen/>
+<FirstSeen/>
+<Collected>2024-03-28T12:49:22.586+00:00</Collected>
+</TimestampIndicator>
+<RatingIndicator id="ioc_rating">
+<Rating/>
+<RatingTIP>10</RatingTIP>
+</RatingIndicator>
+<EntityType>ioc</EntityType>
+<Countries>
+<Country>RU</Country>
+<Country>EU</Country>
+<Country>DEB</Country>
+<Country>MEB</Country>
+<Country>UA</Country>
+</Countries>
+<Registrars/>
+</Indicator>
+</indicators>
+</OpenIOC>
