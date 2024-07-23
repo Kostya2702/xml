@@ -1,3 +1,4 @@
-"Name" "Type"	"Desription"	"Created at"	"Modified at"	"Tags"	"Industr"
-"1235648907"  "os_process"	"sell apples"	"26-08-2017"	"2009 07 04 22:10:00"	""	"citizens"
-"F0:98:9D-1C:93:F7"  "device"	"sell micro windows"	"2009-06-04 22:00:00"	"2009-06-04 23:00:00"	"SuperTag"	"citizens"
+"Name"  "Desription"	"Created at"	"Modified at"	"Tags"	"Industr"
+"1235648907"  "sell apples"	"26-08-2017"	"2009 07 04 22:10:00"	""	"citizens"
+"311345"  "apples"	"26-08-2017"	"2009 07 04 22:10:00"	""	"citizens"
+"551323"  "sell"	"26-08-2017"	"2009 07 04 22:10:00"	""	"citizens"
