@@ -1,0 +1,9 @@
+value,type
+example.com,domain
+*.sub.example.com,domain
+deep.sub.example.com,domain
+192.168.1.1/*,ip
+10.0.0.1,ip
+test.com?*,domain
+api.test.com,domain
+33.44.55.66,ip
